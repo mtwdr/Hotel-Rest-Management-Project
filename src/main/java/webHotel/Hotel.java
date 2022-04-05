@@ -8,6 +8,7 @@ public class Hotel {
 	private String arrival;
 	private String departure;
 	private int guests;
+	private int test;
 	
 	public Hotel(int room_no, String room_type, String guest_Lname, String guest_Fname, String arrival, String departure, int guests) {
 		this.room_no = room_no;
